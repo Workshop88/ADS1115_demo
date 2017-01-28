@@ -1,0 +1,6 @@
+# git ignores these file types
+# for more informationi see: https://git-scm.com/docs/gitignore
+
+# ignore compiled python files 
+*.pyc
+
